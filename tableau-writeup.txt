@@ -1,0 +1,31 @@
+Citi Bike Data Analysis
+
+For this analysis, Citi Bike data from July of 2019 and 2020 were analyzed to determine what impact,  if any,
+the Coronavirus pandemic had on Citi Bike use. 
+
+The data was cleaned and a sample of data from each year was chosen. 
+
+Visualizations looked at how specific characteristics of the Citi Bike program were impacted by the pandemic.
+
+Overall ridership was slightly decreased in 2020. 
+
+However, rides were longer in 2020. When examining whether both the genders differed in their ride duration changes across year both male
+ and females were taking longer trips in 2020 compared to 2019. Interesting, those with unknown genders were taking the
+longest trips. When examining gender seperately, males rent bikes most often, and rented them more in 2019 than 2020. Women and those with
+unknown genders rented bikes more in 2020. 
+
+When examining rider type it was found that there were more subscribers in both 2019 and 2020. However, there was an uptick in customer usage in 2020. Implying that more people are using the bikes a few times.
+Customer type was examined by birth year. Subscriber numbers only increased for riders born in the 1950s. Customer numbers increased 
+for riders born in the 1960, 1980s, and 1990s. In general, the highest birth year for riders in 1969.
+
+Finally, there is a map examining station usage. In the map, the size of the circles, indicate popularity of the station as a starting
+station across years. The circle color indicates popularity of the station usage for an ending station, with darker colors indicating
+increased popularity. To make changes across years more understandable, I included two graphs of station start and station end popularity 
+for both years. Station popularity changes across years are mixed. In general, the most popular stations are in Manhattan. 
+
+In conclusion, while ridership is slightly down in the Citi bike program in July 2020 compared to July 2019, this does not tell the whole 
+story. Riders are using the bikes for longer trip durations and more riders are customers as opposed to subscribers. This could imply that
+the bikes are being using for leisure as opposed to commuting to work. To increase usage, it may be beneficial to market the bikes 
+more for leisure and less for commuting. Also, women's usage of bikes as been increasing, so increased marketing towards women would be
+useful as well. 
+
